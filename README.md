@@ -7,7 +7,7 @@
 
 ## Education
 1. [School of programmers](https://informatics.ru/) [2012 - 2017] 
-2. Bauman Moscow State Technical University, Faculty of space, "Applied mathematics and informatics" [2018 - 2022]
+2. [Bauman Moscow State Technical University](https://bmstu.ru), Faculty of space, "Applied mathematics and informatics" [2018 - 2022]
 3. [Technopark VK](https://park.vk.company/) [2020 - 2022]
 
 ## Job experience
