@@ -29,16 +29,18 @@
 * English, Russian
 
 ## Education
-1. [School of programmers](https://informatics.ru/) [2012 - 2017] 
-2. [Bauman Moscow State Technical University](https://bmstu.ru), Faculty of space, "Applied mathematics and informatics" [2018 - 2022]
-3. [Technopark VK](https://park.vk.company/) [2020 - 2022]
+1. [2012 - 2017] [School of programmers](https://informatics.ru/)
+2. [2018 - nowadays] [Bauman Moscow State Technical University](https://bmstu.ru), Faculty of space, "Applied mathematics and informatics"
+3. [2020 - nowadays] [Technopark VK](https://park.vk.company/)
 
 ## Job experience
-1. Several Web freelance projects 
-2. [School of programmers](https://informatics.ru/), teacher (JS, C++, Web, PHP) [2017 - 2019]
+1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher (JS, C++, Web, PHP)
+2. [2015 - nowadays] Occasional freelance projects, IT support and tutoring
 
 ## My projects
-* [LioKor Code](https://code.liokor.com) (in collabortaion with @SergTyapkin and @moroz-matros)
-* [LioKor Mail](https://mail.liokor.ru) (in collaboration with @SergTyapkin and @altanab)
-* [WOWL](https://wowl.liokor.com)
-* [LK Chess](https://chess.liokor.com)
+* [LioKor Code](https://code.liokor.com) (in collabortaion with @SergTyapkin and @moroz-matros) - platform for studying programming languages and algorithms with automatic task checking in several languages (incl. C, C++, Lua, etc.), video conferences and live editor.
+* [LioKor Mail](https://mail.liokor.ru) (in collaboration with @SergTyapkin and @altanab) - email service with an interface of a messenger
+* [LioKor](https://liokor.com) - little blog that used to be central website for all my projects
+* [LKJSE](https://lkjse.liokor.com) - platform for studying JavaScript
+* [WOWL](https://wowl.liokor.com) - service for voice communication over WebRTC
+* [LK Chess](https://chess.liokor.com) - simple multiplayer chess
