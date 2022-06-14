@@ -31,7 +31,7 @@
 ## Education
 1. [2012 - 2017] [School of programmers](https://informatics.ru/)
 2. [2018 - nowadays] [Bauman Moscow State Technical University](https://bmstu.ru), Faculty of space, "Applied mathematics and informatics"
-3. [2020 - nowadays] [Technopark VK](https://park.vk.company/)
+3. [2020 - 2022] [Technopark VK](https://park.vk.company/)
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher (JS, C++, Web, PHP)
