@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @KoroLion
+- 👋 Hi, I’m Artem Korolev (@KoroLion)
 - 👀 I’m interested in computer science, biology, mathematics and physics.
 - 🌱 I’m currently learning computer science and mathematics.
 - 💞️ I’m looking to collaborate on biology or computer science projects.
