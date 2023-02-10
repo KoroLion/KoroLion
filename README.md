@@ -1,48 +1,45 @@
 
-- 👋 Hi, I’m Artem Korolev (@KoroLion)
-- 👀 I’m interested in computer science, biology, mathematics and physics.
-- 🌱 I’m currently learning computer science and mathematics.
-- 💞️ I’m looking to collaborate on biology or computer science projects.
-- 📫 How to reach me: 
+- I’m Artem Korolev (@KoroLion). I’m interested in computer science, biology, mathematics and physics, currently learning computer science, mathematics and bioinformatics.
+- 📫 Contacts: 
   - email: korolion31@yandex.ru
   - telegram: @korolion31
 
 ## Skills
-* Programming languages:
-  * GoLang
-  * Python
-  * JavaScript (+ HTML/CSS)
-  * C/C++
+* Programming languages, libraries and frameworks:
+  * Python (Django, Flask, SQLAlchemy; basic knowledge of numpy, sympy and scipy)
+  * GoLang (echo framework)
+  * JavaScript, HTML and CSS (VueJS, WebPack, WebRTC, Electron)
+  * C and C++
   * Assembler (NASM and AVR ASM)
   * SQL
-* Frameworks and Libraries:
-  * VueJS
-  * Django, Flask
-  * numpy and sympy (basic knowledge)
-  * Selenium
-  * Electron
 * Software:
   * Docker
   * Swagger
+  * PostgreSQL
+  * ElasticSearch
+  * git
   * nginx
-* Windows / Linux / macOS
+  * Concourse
+  * Windows / Linux / macOS
 * English, Russian
 
 ## Education
 1. [2012 - 2017] [School of programmers](https://informatics.ru/)
-2. [2018 - 2022] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, bachelor of "Applied mathematics and informatics"
+2. [2018 - 2022] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", bachelor
 3. [2020 - 2022] [Technopark VK](https://park.vk.company/)
+4. [2022 - Present time] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", msater's student
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher (JS, C++, Web, PHP)
-2. [2015 - nowadays] Occasional freelance projects, IT support and tutoring
+2. [2015 - Present time] Occasional freelance projects, IT support and tutoring
+3. [2022 - Present time] Junior Software Enginner (backend, python)
 
 ## My projects
-* [LioKor](https://liokor.com) - little blog that used to be central website for all my projects
-* [LKJSE](https://lkjse.liokor.com) - platform for studying JavaScript
-* [WOWL](https://wowl.liokor.com) - service for voice communication over WebRTC
-* [LK Chess](https://chess.liokor.com) - simple multiplayer chess
+* [2015 - 2020] [LioKor](https://liokor.com) - little blog that used to be central website for all my projects
+* [2020] [LKJSE](https://lkjse.liokor.com) - platform for studying JavaScript
+* [2022] [WOWL](https://wowl.liokor.com) - service for voice communication over WebRTC
+* [2018 - 2020] [LK Chess](https://chess.liokor.com) - simple multiplayer chess
 
 ## Projects, that I took part in as a part of a team:
-* [LioKor Code](https://code.liokor.com) (in collabortaion with @SergTyapkin and @moroz-matros) - platform for studying programming languages and algorithms with automatic task checking in several languages (incl. C, C++, Lua, etc.), video conferences and live editor.
-* [LioKor Mail](https://mail.liokor.ru) (in collaboration with @SergTyapkin and @altanab) - email service with an interface of a messenger
+* [2022] [LioKor Code](https://code.liokor.com) (in collabortaion with [@SergTyapkin](https://github.com/SergTyapkin) and [@moroz-matros](https://github.com/moroz-matros)) - platform for studying programming languages and algorithms with automatic task checking in several languages (incl. C, C++, Lua, etc.), video conferences and live editor.
+* [2021] [LioKor Mail](https://mail.liokor.ru) (in collaboration with [@SergTyapkin](https://github.com/SergTyapkin) and [@altanab](https://github.com/altanab)) - email service with an interface of a messenger
