@@ -7,7 +7,7 @@
 
 ## Skills
 * Programming languages, libraries and frameworks:
-  * Python (Django, Flask, SQLAlchemy; basic knowledge of numpy, sympy and scipy)
+  * Python (Django, Flask, SQLAlchemy, alembic, Marshmallow; basic knowledge of numpy, sympy and scipy)
   * GoLang (echo framework)
   * JavaScript, HTML and CSS (VueJS, WebPack, WebRTC, Electron)
   * C and C++
