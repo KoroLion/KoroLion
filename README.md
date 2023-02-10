@@ -1,8 +1,9 @@
 
 - I’m Artem Korolev (@KoroLion). I’m interested in computer science, biology, mathematics and physics, currently learning computer science, mathematics and bioinformatics.
 - 📫 Contacts: 
-  - email: korolion31@yandex.ru
-  - telegram: @korolion31
+  - EMail: korolion31@yandex.ru
+  - Telegram: @korolion31
+  - LinkedIn: [linkedin.com/in/KoroLion](https://linkedin.com/in/korolion)
 
 ## Skills
 * Programming languages, libraries and frameworks:
@@ -27,7 +28,7 @@
 1. [2012 - 2017] [School of programmers](https://informatics.ru/)
 2. [2018 - 2022] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", bachelor
 3. [2020 - 2022] [Technopark VK](https://park.vk.company/)
-4. [2022 - Present time] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", msater's student
+4. [2022 - Present time] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", master's student
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher (JS, C++, Web, PHP)
