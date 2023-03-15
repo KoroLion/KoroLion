@@ -32,7 +32,6 @@
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher (JS, C++, Web, PHP)
-2. [2015 - Present time] Occasional freelance projects, IT support and tutoring
 3. [2022 - Present time] Junior Software Enginner (backend, python)
 
 ## My projects
