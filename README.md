@@ -1,8 +1,8 @@
 
 - I’m Artem Korolev (@KoroLion). I’m interested in computer science, biology, mathematics and physics, currently learning computer science, mathematics and bioinformatics.
 - 📫 Contacts: 
-  - EMail: korolion31@gmail.com
-  - Telegram: @korolion31
+  - EMail: [korolion31@gmail.com](mailto:korolion31@gmail.com)
+  - Telegram: [@korolion31](https://t.me/korolion31)
   - LinkedIn: [linkedin.com/in/KoroLion](https://linkedin.com/in/korolion)
 
 ## Skills
