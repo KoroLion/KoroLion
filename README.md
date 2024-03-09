@@ -26,9 +26,9 @@
 
 ## Education
 1. [2012 - 2017] [School of programmers](https://informatics.ru/)
-2. [2018 - 2022] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", bachelor
+2. [2018 - 2022] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", bachelor's degree
 3. [2020 - 2022] [Technopark VK](https://park.vk.company/)
-4. [2022 - Present time] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", master's student
+4. [2023 - Present time] [Russian-Armenian University](https://mf.bmstu.ru), Engineering-Physics Institute, "Electronics and Nanoelectronics", master's student
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher (JS, C++, Web, PHP)
@@ -41,5 +41,5 @@
 * [2018 - 2020] [LK Chess](https://chess.liokor.com) - simple multiplayer chess
 
 ## Projects, that I took part in as a part of a team:
-* [2022] [LioKor Code](https://code.liokor.com) (in collabortaion with [@SergTyapkin](https://github.com/SergTyapkin) and [@moroz-matros](https://github.com/moroz-matros)) - platform for studying programming languages and algorithms with automatic task checking in several languages (incl. C, C++, Lua, etc.), video conferences and live editor.
 * [2021] [LioKor Mail](https://mail.liokor.ru) (in collaboration with [@SergTyapkin](https://github.com/SergTyapkin) and [@altanab](https://github.com/altanab)) - email service with an interface of a messenger
+* [2022] [LioKor Code](https://code.liokor.com) (in collabortaion with [@SergTyapkin](https://github.com/SergTyapkin) and [@moroz-matros](https://github.com/moroz-matros)) - platform for studying programming languages and algorithms with automatic task checking in several languages (incl. C, C++, Lua, etc.), video conferences and live editor.
