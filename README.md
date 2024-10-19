@@ -1,5 +1,5 @@
 
-- I’m Artem Korolev (@KoroLion). I’m interested in computer science, biology, mathematics and physics, currently learning computer science, mathematics and bioinformatics.
+- My name is Artem Korolev (@KoroLion). I am software engineer with a lot of experience in different languages and technologies.
 - 📫 Contacts: 
   - EMail: [korolion31@gmail.com](mailto:korolion31@gmail.com)
   - Telegram: [@korolion31](https://t.me/korolion31)
@@ -7,16 +7,17 @@
 
 ## Skills
 * Programming languages, libraries and frameworks:
-  * Python (Django, Flask, SQLAlchemy, alembic, Marshmallow; basic knowledge of numpy, sympy and scipy)
+  * Python (FastAPI, Django, Flask, SQLAlchemy, alembic, Marshmallow; basic knowledge of numpy, sympy and scipy)
   * GoLang (echo framework)
-  * JavaScript, HTML and CSS (VueJS, WebPack, WebRTC, Electron)
+  * TypeScript (VueJS, WebPack, WebRTC, Electron, ReactJS, NodeJS)
+  * HTML and CSS (+ stylus)
   * C and C++
   * Assembler (NASM and AVR ASM)
   * SQL
 * Software:
   * Docker
-  * Swagger
-  * PostgreSQL
+  * Swagger/OpenAPI
+  * PostgreSQL, MySQL
   * ElasticSearch
   * git
   * nginx
