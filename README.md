@@ -16,12 +16,14 @@
   * SQL
 * Software:
   * Docker
+  * Kubernetes
   * Swagger/OpenAPI
   * PostgreSQL, MySQL
   * ElasticSearch
   * git
   * nginx
   * Concourse
+  * GitHub Actions
   * Windows / Linux / macOS
 * English, Russian
 
@@ -33,7 +35,7 @@
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher assistant (JS, C++, Web, PHP)
-3. [2022 - Present time] [BostonGene](https://bostongene.com/), Junior Software Engineer (backend, python)
+3. [2022 - 2024] [BostonGene](https://bostongene.com/), Junior Software Engineer (backend, python)
 
 ## My projects
 * [2015 - 2020] [LioKor](https://liokor.com) - little blog that used to be central website for all my projects
