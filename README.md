@@ -35,7 +35,7 @@
 6. [2024] [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Academic mobility program (computer science, information security)
 
 ## Job experience
-1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher assistant (JS, C++, Web, PHP)
+1. [2017 - 2019] [School of programmers](https://informatics.ru/), Teacher (JS, C++, Web, PHP)
 2. [2022 - 2024] [BostonGene](https://bostongene.com/), Junior Software Engineer (backend, python)
 3. [2024 - 2025] [EkopromStroy](https://ekopromstroy.com/), Software Engineer (backend, python)
 
