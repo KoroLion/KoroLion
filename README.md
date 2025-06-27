@@ -35,7 +35,8 @@
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher assistant (JS, C++, Web, PHP)
-3. [2022 - 2024] [BostonGene](https://bostongene.com/), Junior Software Engineer (backend, python)
+2. [2022 - 2024] [BostonGene](https://bostongene.com/), Junior Software Engineer (backend, python)
+3. [2024 - 2025] [EkopromStroy](https://ekopromstroy.com/), Software Engineer (backend, python)
 
 ## My projects
 * [2015 - 2020] [LioKor](https://liokor.com) - little blog that used to be central website for all my projects
