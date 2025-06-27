@@ -31,7 +31,8 @@
 1. [2012 - 2017] [School of programmers](https://informatics.ru/)
 2. [2018 - 2022] [Bauman Moscow State Technical University](https://mf.bmstu.ru), Faculty of space, "Applied mathematics and computer science", bachelor's degree
 3. [2020 - 2022] [Technopark VK](https://park.vk.company/)
-4. [2023 - Present time] [Russian-Armenian University](https://rau.am), Engineering-Physics Institute, "Electronics and Nanoelectronics", master's student
+5. [2023 - 2025] [Russian-Armenian University](https://rau.am), Engineering-Physics Institute, "Electronics and Nanoelectronics", master's degree
+6. [2024] [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Academic mobility program (computer science, information security)
 
 ## Job experience
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), teacher assistant (JS, C++, Web, PHP)
