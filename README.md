@@ -5,9 +5,14 @@
   - Telegram: [@korolion31](https://t.me/korolion31)
   - LinkedIn: [linkedin.com/in/KoroLion](https://linkedin.com/in/korolion)
 
+## Job experience
+1. [2017 - 2019] [School of programmers](https://informatics.ru/), Teacher, part-time (C++, JavaScript, HTML/CSS, PHP)
+2. [2022 - 2024] [BostonGene](https://bostongene.com/), Junior Software Engineer, full-time (Python, ElasticSearch/OpenSearch, PostgreSQL, SQLAlchemy, Flask, Pytest, Concourse, Kubernetes)
+3. [2024 - 2025] [EkopromStroy](https://ekopromstroy.com/), Software Engineer, part-time (Python, PostgreSQL, SQLAlchemy, FastAPI, Pytest)
+
 ## Skills
 * Programming languages, libraries and frameworks:
-  * Python (FastAPI, Django, Flask, SQLAlchemy, alembic, Marshmallow; basic knowledge of numpy, sympy and scipy)
+  * Python (FastAPI, Django, Flask, SQLAlchemy, pytest; basic knowledge of numpy, sympy and scipy)
   * GoLang (echo framework)
   * TypeScript (VueJS, WebPack, WebRTC, Electron, ReactJS, NodeJS)
   * HTML and CSS (+ stylus)
@@ -33,11 +38,6 @@
 3. [2020 - 2022] [Technopark VK](https://park.vk.company/)
 5. [2023 - 2025] [Russian-Armenian University](https://rau.am), Engineering-Physics Institute, "Electronics and Nanoelectronics", master's degree
 6. [2024] [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), Academic mobility program (computer science, information security)
-
-## Job experience
-1. [2017 - 2019] [School of programmers](https://informatics.ru/), Teacher (JS, C++, Web, PHP)
-2. [2022 - 2024] [BostonGene](https://bostongene.com/), Junior Software Engineer (backend, python)
-3. [2024 - 2025] [EkopromStroy](https://ekopromstroy.com/), Software Engineer (backend, python)
 
 ## My projects
 * [2015 - 2020] [LioKor](https://liokor.com) - little blog that used to be central website for all my projects
