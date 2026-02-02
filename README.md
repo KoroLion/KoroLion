@@ -9,6 +9,7 @@
 1. [2017 - 2019] [School of programmers](https://informatics.ru/), Teacher, part-time (C++, JavaScript, HTML/CSS, PHP)
 2. [2022 - 2024] [BostonGene](https://bostongene.com/), Junior Software Engineer, full-time (Python, ElasticSearch/OpenSearch, PostgreSQL, SQLAlchemy, Flask, Pytest, Concourse, Kubernetes)
 3. [2024 - 2025] [EkopromStroy](https://ekopromstroy.com/), Software Engineer, part-time (Python, PostgreSQL, SQLAlchemy, FastAPI, Pytest)
+4. [2025 - Present] [BostonGene](https://bostongene.com/), Software Engineer, full-time (Python, PostgreSQL, PostgREST, Docker, Kubernetes, Helm, S3, Prometheus, Grafana)
 
 ## Skills
 * Programming languages, libraries and frameworks:
